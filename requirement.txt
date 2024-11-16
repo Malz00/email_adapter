@@ -1,2 +1,4 @@
+smtplib
+email
 jinja2
-dotenv
+python-dotenv
